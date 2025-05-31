@@ -1,3 +1,3 @@
-# MIni-Project-Sem-6
+# Mini-Project-Sem-6
 F.I.T.S. – Footwear Integrated Tracking System 
 is a compact, wearable health and safety device embedded within regular footwear. This project use microcontrollers and sensors to track physical activity, monitor location in real time, detect emergency events like falls, and calculate basic fitness metrics such as step count, distance walked, and calories burned. Designed with practicality and portability in mind, F.I.T.S. addresses both fitness and safety needs by combining the power of piezoelectric sensors, GPS modules, gyroscopes, and microcontrollers into a single, unobtrusive system.
